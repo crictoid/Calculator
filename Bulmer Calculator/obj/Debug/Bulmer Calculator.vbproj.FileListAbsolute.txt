@@ -1,0 +1,12 @@
+C:\Users\mdbul\source\repos\Bulmer Calculator\bin\Debug\Bulmer Calculator.exe.config
+C:\Users\mdbul\source\repos\Bulmer Calculator\bin\Debug\Bulmer Calculator.exe
+C:\Users\mdbul\source\repos\Bulmer Calculator\bin\Debug\Bulmer Calculator.pdb
+C:\Users\mdbul\source\repos\Bulmer Calculator\bin\Debug\Bulmer Calculator.xml
+C:\Users\mdbul\source\repos\Bulmer Calculator\obj\Debug\Bulmer Calculator.vbproj.AssemblyReference.cache
+C:\Users\mdbul\source\repos\Bulmer Calculator\obj\Debug\Bulmer_Calculator.frmCalculator.resources
+C:\Users\mdbul\source\repos\Bulmer Calculator\obj\Debug\Bulmer_Calculator.Resources.resources
+C:\Users\mdbul\source\repos\Bulmer Calculator\obj\Debug\Bulmer Calculator.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\Bulmer Calculator\obj\Debug\Bulmer Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\Bulmer Calculator\obj\Debug\Bulmer Calculator.exe
+C:\Users\mdbul\source\repos\Bulmer Calculator\obj\Debug\Bulmer Calculator.xml
+C:\Users\mdbul\source\repos\Bulmer Calculator\obj\Debug\Bulmer Calculator.pdb
